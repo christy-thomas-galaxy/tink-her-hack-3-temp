@@ -1,22 +1,22 @@
 
 
-# [Project Name] 🎯
+# SLACK-TIME-SYNC🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Phinix1.0]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: christy thomas - gect
+- Member 2: mithra s - gect
+- Member 3: rayan j koodathil - gect
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Track your free hours and make the most of your time with SLACK-TIME-SYNC! Designed specifically for college students, this free hour tracking website helps you organize your schedule, balance studies, and manage downtime effectively
 
 ### The Problem statement
 [What ridiculous problem are you solving?]
